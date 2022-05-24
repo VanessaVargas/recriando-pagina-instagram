@@ -1,3 +1,14 @@
 # Sobre o Projeto
 
-Inicialmente, segui o desenvolvimento proposto pela especialista Gabriela Pinheiro, como forma de acompanhar o projeto. Após, busquei a referência da página atual do Instagram para deixar o projeto o mais próximo possível do Instagram. Inseri o Javascript para as interações de telas no celular, e como forma de estudo, utilizei o pré-processador SASS.
+Desafio de projeto do Módulo de HTML/CSS da DIO. Inicialmente, acompanhei o desenvolvimento proposto pela especialista Gabriela Pinheiro. Após, busquei a referência da página atual do Instagram para deixar o projeto o mais próximo possível, ajustando imagens, responsividade e incluindo os links de rodapé (apenas texto).
+
+## Layout da aplicação
+
+![Mockups](https://github.com/VanessaVargas/recriando-pagina-instagram/blob/master/public/img/layout.png)
+
+# Tecnologias utilizadas
+
+- HTML
+- CSS
+
+#### ✨ Desenvolvido por Vanessa Vargas ✨
