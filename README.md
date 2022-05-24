@@ -4,7 +4,7 @@ Desafio de projeto do Módulo de HTML/CSS da DIO. Inicialmente, acompanhei o des
 
 ## Layout da aplicação
 
-![Mockup](https://github.com/VanessaVargas/recriando-pagina-instagram/blob/master/public/img/layout.png)
+![Mockup](https://github.com/VanessaVargas/recriando-pagina-instagram/blob/master/img/layout.png)
 
 # Tecnologias utilizadas
 
